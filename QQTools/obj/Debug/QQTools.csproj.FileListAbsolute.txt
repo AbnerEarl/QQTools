@@ -1,0 +1,10 @@
+E:\VisualStudioProjects\QQTools\QQTools\QQTools\bin\Debug\QQTools.exe.config
+E:\VisualStudioProjects\QQTools\QQTools\QQTools\bin\Debug\QQTools.exe
+E:\VisualStudioProjects\QQTools\QQTools\QQTools\bin\Debug\QQTools.pdb
+E:\VisualStudioProjects\QQTools\QQTools\QQTools\obj\Debug\QQTools.csprojAssemblyReference.cache
+E:\VisualStudioProjects\QQTools\QQTools\QQTools\obj\Debug\QQTools.Form1.resources
+E:\VisualStudioProjects\QQTools\QQTools\QQTools\obj\Debug\QQTools.Properties.Resources.resources
+E:\VisualStudioProjects\QQTools\QQTools\QQTools\obj\Debug\QQTools.csproj.GenerateResource.cache
+E:\VisualStudioProjects\QQTools\QQTools\QQTools\obj\Debug\QQTools.csproj.CoreCompileInputs.cache
+E:\VisualStudioProjects\QQTools\QQTools\QQTools\obj\Debug\QQTools.exe
+E:\VisualStudioProjects\QQTools\QQTools\QQTools\obj\Debug\QQTools.pdb
